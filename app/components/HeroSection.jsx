@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-export const HeroSection = () => {
+const HeroSection = () => {
   return (
     <div className="flex flex-col justify-center items-center text-center min-h-screen">
       <motion.h1
